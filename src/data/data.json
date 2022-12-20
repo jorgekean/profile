@@ -1,0 +1,52 @@
+{
+    "firstName": "Jorge Kean",
+    "lastName": "De los Reyes",
+    "address1": "LOT 6 BLK 38 ALEGRIA HOMES ",
+    "address2": "PUTING BATO EAST CALACA, BATANGAS 4212",
+    "contactNumber": "09985655106",
+    "email": "JKN379@GMAIL.COM",
+    "jobDescription": "I am a full stack software engineer with 10 years of experience in the .NET technology stack. Have a proven ability to efficiently work with a diverse team, and a strong background in object-oriented programming. I am also conducting internal training on several topics such as SQL, ASP.NET MVC, and AngularJS.",
+    "experience": [
+        {
+            "title": "Senior Software Developer",
+            "company": "Willis Towers Watson",
+            "jobDescription": "Implements and supports the Heath and Benefits System of United States clients. Develop internal applications for the organization to make their work more efficient. Perform code reviews to junior developers. Interact with the client teams to discuss the requirements and timeline of the projects.",
+            "date": "October 2016 - Present"
+        },
+        {
+            "title": "Technical Specialist",
+            "company": "Provoke Solutions",
+            "jobDescription": "Developed an API to be consumed by a mobile app. Developed enhancements on clients' websites. Earned Microsoft Certified Solutions Developer (MCSD) certification",
+            "date": "March 2016 - October 2016"
+        },
+        {
+            "title": "Software Developer",
+            "company": "System and Software Consulting Group Inc.",
+            "jobDescription": "Supports the monitoring and inventory management system. Develop financial system for local clients",
+            "date": "January 2013 - March 2016"
+        }
+    ],
+    "education": [
+        {
+            "year": "2008 - 2012",
+            "school": "Cavite State University",
+            "course": "Bachelor of Science in Information Technology",
+            "location": "Cavite, Philippines"
+        }
+    ],
+    "skills": [
+        "HTML",
+        "JS",
+        "CSS",
+        "JQUERY",
+        "ANGULARJS",
+        "REACTJS",
+        "NPM",
+        "NODE",
+        "ASP.NET",
+        "C#",
+        "SQL",
+        "ENTITY FRAMEWORK",
+        "SSRS"
+    ]
+}
